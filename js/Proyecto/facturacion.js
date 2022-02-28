@@ -13,5 +13,5 @@ $(document).ready( function(){
     $('#alquiler').append(`$ ${datos[1]}`);
     $('#seguro').append(`$ ${datos[2]}`);
     $('#total').append(`$ ${datos[3]}`);
-    $('#dias').append(`${datos[0].dias}`);
+    $('#dias').append(`${datos[0].dias} dias`);
 })
