@@ -1,5 +1,3 @@
-// HOLA MUNCO
-
 $(document).ready( function() { 
     $('#main').append('<div id="containerIniciar"><button type="button" id="iniciar" class="botones"> Iniciar </button></div>')
     window.setTimeout(function(){
